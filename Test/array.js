@@ -11,7 +11,7 @@
 // var values :Array<string | number> = ['applaae','banaaana','guava', 200 ,20010]
 // console.log(values)
 //Access Array elements
-var fruits4 = ['applaae', 'banaaana', 'guava'];
+var fruits4 = ['applaae', 'banaaana', 'guava','Mango'];
 console.log(fruits4[2]);
 console.log(fruits4[7]);
 // use the loop statnts 
