@@ -35,13 +35,13 @@ function hello():void
 
 //null represents value is undefined
 
-var num1: number = null
+var num1: number = 100
 num1 = 100
 console.log(num1)
 
 //undefined used un initialised variables
 
-var num2 :number = undefined
+var num2 :number =250
 // num2 = 250
 console.log(num2)
 
